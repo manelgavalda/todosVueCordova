@@ -1,0 +1,21 @@
+{
+  "name": "todosvuecordova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manelgavalda/todosvuecordova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manelgavalda/todosvuecordova/issues"
+  },
+  "homepage": "https://github.com/manelgavalda/todosvuecordova#readme"
+}
