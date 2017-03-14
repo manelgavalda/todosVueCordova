@@ -3,6 +3,8 @@ www
 node_modules/
 yarn.lock
 /vendor/
-platforms/
 npm-debug.log
 ..gitignore.swp
+www.zip
+vendor/
+platforms/
