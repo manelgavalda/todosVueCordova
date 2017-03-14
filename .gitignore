@@ -5,3 +5,4 @@ yarn.lock
 /vendor/
 platforms/
 npm-debug.log
+..gitignore.swp
