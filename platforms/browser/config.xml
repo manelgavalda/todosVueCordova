@@ -15,5 +15,5 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation href="http://todosbackend.manelgavalda.2dam.acacha.org:8080/" />
+    <allow-navigation href="http://todosbackend.manelgavalda.2dam.acacha.org:8080/*" />
 </widget>

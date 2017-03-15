@@ -22,7 +22,7 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <allow-navigation href="http://todosbackend.manelgavalda.2dam.acacha.org:8080/"/>
+    <allow-navigation href="http://todosbackend.manelgavalda.2dam.acacha.org:8080/*"/>
 
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <plugin name="cordova-plugin-statusbar" spec="~2.1.0" />
