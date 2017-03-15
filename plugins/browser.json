@@ -7,7 +7,7 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
+        "cordova-plugin-console": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-plugin-dialogs": {
@@ -16,10 +16,10 @@
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         },
-        "phonegap-plugin-push": {
+        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         },
-        "cordova-plugin-console": {
+        "phonegap-plugin-push": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         }
     },
