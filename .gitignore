@@ -2,9 +2,5 @@
 www
 node_modules/
 yarn.lock
-/vendor/
-npm-debug.log
-..gitignore.swp
-www.zip
-vendor/
 platforms/
+plugins/
