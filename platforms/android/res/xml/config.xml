@@ -33,6 +33,13 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-navigation href="http://todosbackend.manelgavalda.2dam.acacha.org:8080/*" />
+    <icon src="logo.png" />
+    <icon density="mdpi" src="res/drawable-mdpi/ic_launcher.png" />
+    <icon density="hdpi" src="res/drawable-hdpi/ic_launcher.png" />
+    <icon density="xhdpi" src="res/drawable-xhdpi/ic_launcher.png" />
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#ee6e73" />
+    <preference name="StatusBarStyle" value="blacktranslucent" />
 </widget>

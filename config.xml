@@ -15,7 +15,15 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#ee6e73" />
+    <preference name="StatusBarStyle" value="blacktranslucent" />
+
     <platform name="android">
+        <icon src="res/drawable-mdpi/ic_launcher.png" density="mdpi" />
+        <icon src="res/drawable-hdpi/ic_launcher.png" density="hdpi" />
+        <icon src="res/drawable-xhdpi/ic_launcher.png" density="xhdpi" />
         <allow-intent href="market:*" />
     </platform>
     <platform name="ios">
@@ -30,4 +38,6 @@
     <plugin name="cordova-plugin-console" spec="~1.0.2" />
     <plugin name="cordova-plugin-dialogs" spec="~1.2.0" />
     <plugin name="cordova-plugin-inappbrowser"/>
+    <icon src="logo.png"/>
+
 </widget>
