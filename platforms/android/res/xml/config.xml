@@ -39,7 +39,7 @@
     <icon density="xhdpi" src="res/drawable-xhdpi/ic_launcher.png" />
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
-    <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#ee6e73" />
-    <preference name="StatusBarStyle" value="blacktranslucent" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="StatusBarStyle" value="lightcontent" />
 </widget>
