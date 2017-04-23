@@ -17,6 +17,8 @@
     <plugin name="cordova-plugin-dialogs" spec="~1.2.0" />
     <plugin name="cordova-plugin-inappbrowser" spec="~1.7.0" />
     <plugin name="cordova-plugin-camera"/>
+    <plugin name="cordova-plugin-contacts"/>
+    <plugin name="cordova-plugin-geolocation"/>
 
     <access origin="*" />
     <allow-intent href="http://*/*" />
